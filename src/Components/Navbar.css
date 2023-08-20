@@ -1,0 +1,30 @@
+.navbar {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+  }
+  
+  .brand-name {
+    font-size: 25px;
+    margin-left: 20px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+  }
+  
+  .get-users-button {
+    height: 40px;
+    width: 130px;
+    background-color: goldenrod;
+    font-size: 20px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 16px;
+    cursor: pointer;
+
+  }
+  
